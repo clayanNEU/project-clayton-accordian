@@ -1,0 +1,33 @@
+body {
+  background-color: #18453b;
+  /*Spartan Green*/
+}
+
+h1 {
+  margin: 50;
+  padding: 10px;
+  padding-left: 60px;
+  text-align: left;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+  color: rgb(117, 79, 9);
+  box-shadow: #18453b;
+}
+
+h1:hover {
+  transform: scale(1.05);
+}
+
+section {
+  margin: 50;
+  padding-bottom: 30px;
+  padding-left: 60px;
+  text-align: left;
+  max-height: 0;
+  transition: max-height 0.5s ease-out;
+  color: beige;
+}
+
+.open {
+  max-height: 200px;
+}
