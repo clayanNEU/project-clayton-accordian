@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/project-clayton-accordian/static/css/main.6c4cb16a.css",
+    "main.js": "/project-clayton-accordian/static/js/main.5ed5e62d.js",
+    "static/js/787.e33f575d.chunk.js": "/project-clayton-accordian/static/js/787.e33f575d.chunk.js",
+    "index.html": "/project-clayton-accordian/index.html",
+    "main.6c4cb16a.css.map": "/project-clayton-accordian/static/css/main.6c4cb16a.css.map",
+    "main.5ed5e62d.js.map": "/project-clayton-accordian/static/js/main.5ed5e62d.js.map",
+    "787.e33f575d.chunk.js.map": "/project-clayton-accordian/static/js/787.e33f575d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c4cb16a.css",
+    "static/js/main.5ed5e62d.js"
+  ]
+}
